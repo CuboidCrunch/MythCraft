@@ -1,29 +1,14 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is the new version of MythCraft. I have no idea where to start. JARROD. HELP ME.
 
-### What is this repository for? ###
+First of all: Great news. I apparently updated all MythCraft code past it's initial crappy version, and I forgot about this. Therefore, the quality of the code is at (somewhat) recent levels. Some stuff is still weird though.
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## Known Issues with legacy MythCraft ##
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* The CommandExecutor code is shit
+* Persistance code is wonky
+* ConfigManager class is deprecated, doesn't use UUID's (saving system doesn't work as-is)
+* The Util class is weird.
+* The way status effects work is pretty weird.
+* The MythCraftPlayer class has heaps of useless things.
