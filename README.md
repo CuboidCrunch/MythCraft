@@ -1,4 +1,4 @@
-# README #
+# MythCraft #
 
 This is the new version of MythCraft. I have no idea where to start. JARROD. HELP ME.
 
