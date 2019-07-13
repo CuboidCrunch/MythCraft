@@ -1,6 +1,6 @@
 # MythCraft #
 
-This is the new version of MythCraft. I have no idea where to start. JARROD. HELP ME.
+This is the new version of MythCraft.
 
 First of all: Great news. I apparently updated all MythCraft code past it's initial crappy version, and I forgot about this. Therefore, the quality of the code is at (somewhat) recent levels. Some stuff is still weird though.
 
