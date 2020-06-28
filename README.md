@@ -6,7 +6,7 @@ First of all: Great news. I apparently updated all MythCraft code past it's init
 
 ## Known Issues with legacy MythCraft ##
 
-* The CommandExecutor code is shit
+* The CommandExecutor code is broken
 * Persistance code is wonky
 * ConfigManager class is deprecated, doesn't use UUID's (saving system doesn't work as-is)
 * The Util class is weird.
